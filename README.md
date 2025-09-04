@@ -1,17 +1,20 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
-
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+*My name is Hanna Chen. I'm a senior at MIT double majoring in mathematics and computer science, and it's nice to meet you! [Here is a link to my substack blog.](https://sleepyycat.substack.com/)
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+1. I've played piano and violin for more than a decade.
+2. My favorite music artists are Taylor Swift and Gracie Abrams (I actually saw Gracie in Boston this past summer!).
+3. I have a fully elastic sleep schedule (which may or may not be a good thing). 
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+My goals for the semester:
+1. Have fun in all my classes (especially this one).
+2. Try not to be too sleep deprived.
+3. Hang out with my friends more! Especially the ones who live farther away.
+
+![picture of me in front of the Eiffel Tower](assets/image.jpg)
 
 
 # Table of Contents
 [Link to Assignment 1](assignments/assignment1.md)
+
+[Link to Assignment 2](assignments/assignment2.md)
