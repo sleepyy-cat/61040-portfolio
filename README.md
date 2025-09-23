@@ -17,6 +17,6 @@ My goals for the semester:
 # Table of Contents
 [Link to Assignment 1](assignments/assignment1.md)
 
-[Link to Assignment 2](assignments/assignment2.md)
+[Link to Pset 1](assignments/assignment2.md)
 
-[Link to Assignment 3](assignments/assignment3.md)
+[Link to Pset 2](assignments/assignment3.md)
