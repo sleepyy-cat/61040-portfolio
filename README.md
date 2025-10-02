@@ -11,7 +11,7 @@ My goals for the semester:
 2. Try not to be too sleep deprived.
 3. Hang out with my friends more! Especially the ones who live farther away.
 
-![picture of me in front of the Eiffel Tower](assets/image.jpg)
+![picture of me in front of the Eiffel Tower](assets/profilepic.jpg)
 
 
 # Table of Contents
